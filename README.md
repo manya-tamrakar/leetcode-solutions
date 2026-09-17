@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
