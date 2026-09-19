@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
