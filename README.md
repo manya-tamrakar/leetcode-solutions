@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
