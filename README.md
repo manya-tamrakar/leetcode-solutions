@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0443-string-compression) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
