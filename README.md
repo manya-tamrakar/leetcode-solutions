@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
