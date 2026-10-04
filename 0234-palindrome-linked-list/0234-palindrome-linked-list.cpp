@@ -12,7 +12,7 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
        
-        // 1. Find middle
+     
         ListNode* slow = head;
         ListNode* fast = head;
 
@@ -21,7 +21,6 @@ public:
             fast = fast->next->next;
         }
 
-        // 2. Reverse second half
         ListNode* prev = NULL;
         ListNode* curr = slow;
 
@@ -32,7 +31,7 @@ public:
             curr = next;
         }
 
-        // 3. Compare first half and reversed second half
+        
         ListNode* left = head;
         ListNode* right = prev;
 
