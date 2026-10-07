@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
