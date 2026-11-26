@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/manya-tamrakar/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
